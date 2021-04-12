@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="left">Hi 👋, I'm George Sued</h1>
 <h4 align="left">Desenvolvedor backend que também faz suas aventuras no frontend. Apaixonado por música, física e filosofia. Acredito que inteligência artificial já dominou a humanidade.</h4>
 
