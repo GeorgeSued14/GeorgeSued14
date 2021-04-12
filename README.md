@@ -53,9 +53,9 @@
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeSued14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeSued14&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![George Sued GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeSued14)](https://github.com/anuraghazra/github-readme-stats)
+[![George Sued GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeSued14&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
