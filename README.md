@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Sued</h1>
 <h3 align="center">Negro, carioca, músico e desenvolvedor fullstack no Brasil</h3>
 
-- 🌱 sou atualmente aprendendo **golang**
+- 🌱  Atualmente aprendendo **golang**
 
 - 📫 Como entrar em contato comigo **georgesued.dev@gmail.com**
 
