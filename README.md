@@ -1,6 +1,4 @@
 <h1 align="left">Hi 👋, I'm George Sued</h1>
-<h4 align="left">Desenvolvedor backend que também faz suas aventuras no frontend. Apaixonado por música, física e filosofia. Acredito que inteligência artificial já dominou a humanidade.</h4>
-
   ##
  <div>
 <a href="https://instagram.com/georgesued_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="georgesued_" /></a>
@@ -28,9 +26,9 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-<!--   <a href="https://www.djangoproject.com/" target="_blank"> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-  </a>  -->
+  </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
