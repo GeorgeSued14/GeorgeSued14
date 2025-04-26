@@ -1,10 +1,12 @@
 # 👋 Olá! Eu sou um Engenheiro de Software Fullstack
 
+Atualmente atuando no mercado com **.NET** e **Angular**
+
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor fullstack apaixonado por transformar ideias em soluções eficientes, escaláveis e bem estruturadas. Atualmente trabalho com **.NET** e **Angular**, construindo aplicações robustas que impactam o dia a dia de pessoas e empresas.
+Sou um desenvolvedor fullstack a mais de 4 anos apaixonado por transformar ideias em soluções eficientes, escaláveis e bem estruturadas. Construindo aplicações robustas que impactam o dia a dia de pessoas e empresas.
 
-Tenho grande interesse por **DevOps** e **Segurança da Informação**, e busco constantemente me aprofundar nesses temas para entregar software com mais qualidade e confiabilidade.
+Tenho grande por tecnologia e dentro da TI interesse por **Arquitetura de Softwares*, *DevOps** e **Segurança da Informação**, e busco constantemente me aprofundar nesses temas para entregar software com mais qualidade e confiabilidade.
 
 Também sou **musicista**, nas horas vagas e nas não tão vagas assim — a criatividade me acompanha tanto no código quanto nas notas musicais. 🎶
 
@@ -30,10 +32,8 @@ Também sou **musicista**, nas horas vagas e nas não tão vagas assim — a cri
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://seudominio.dev/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seuusuario)
-[![email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@email.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgesued/)
+[![email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgesued.dev@gmail.com)
 
 ---
 
